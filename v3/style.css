@@ -1,0 +1,104 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 200vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.parallax1 {
+    widows: 100%;
+    height: 650px;
+    background-image: url(images/pic1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.parallax1 h1{
+    color: w;
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.content2 h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    border-bottom: 3px soild black;
+    width: 58%;
+}
+
+.content2 {
+    width: 40%;
+    font-size: 21px;
+    padding: 20px;
+    text-align: justify;
+    margin-top: 100px;    
+}
+
+.parallax2 {
+    float: right;
+    width: 57%;
+    height: 420px;
+    margin-top: -380px;
+    background-image: url(images/pic2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+.parallax3 {
+    width: 50%;
+    height: 420px;
+    background-image: url(images/pic2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin-top: 120px;
+}
+
+/*heading*/
+header{
+    width: 100%;
+    height: 100px;    
+    background: red;
+    position: fixed;
+}
+
+.logo {
+    width: 30%;
+    float: left;
+    text-align: left;
+    line-height: 100px;
+}
+
+.logo a {
+    text-decoration: none;
+    font-size: 30px;
+    font-family: "Pacifico";
+    color: #fff;
+    letter-spacing: 4px;
+}
+
+nav a {
+    text-decoration: none;
+    font-family: "Poppins";
+    letter-spacing: 4px;
+    font-size: 18px;
+    color: #fff;
+    padding: 36px 10px;
+    margin: 0 1px;
+    font-weight: 500;
+
+}
+
+nav a:hover {
+    background: #fff;
+    color: #130f40;
+    
+}
