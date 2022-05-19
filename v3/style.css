@@ -10,7 +10,7 @@ body{
 .parallax1 {
     widows: 100%;
     height: 650px;
-    background-image: url(images/pic1.jpg);
+    background-image: url(images/pic3.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -102,3 +102,9 @@ nav a:hover {
     color: #130f40;
     
 }
+
+
+/*Heading Background*/
+
+  
+  
