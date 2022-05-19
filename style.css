@@ -7,16 +7,17 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.parallax {
+.parallax1 {
     widows: 100%;
     height: 650px;
     background-image: url(pic1.jpg);
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
 }
 
-.parallax h1{
-    color: red;
+.parallax1 h1{
+    color: w;
     position: absolute;
     top: 40%;
     left: 25%;
