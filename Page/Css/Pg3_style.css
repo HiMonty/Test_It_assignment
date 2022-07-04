@@ -10,7 +10,7 @@ body{
 .parallax1 {
     widows: 100%;
     height: 650px;
-    background-image: url(images/pic1.jpg);
+    background-image: url(images/Pic10.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -29,7 +29,7 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 40px;
     border-bottom: 3px soild black;
-    width: 58%;
+    width: 98%;
 }
 
 .content2 {
@@ -45,7 +45,7 @@ body{
     width: 57%;
     height: 420px;
     margin-top: -380px;
-    background-image: url(images/pic2.jpg);
+    background-image: url(Images/Pic11.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -55,7 +55,75 @@ body{
 .parallax3 {
     width: 50%;
     height: 420px;
-    background-image: url(images/pic2.jpg);
+    background-image: url(images/Pic11.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin-top: 120px;
+}
+.parallax4 {
+    float: right;
+    width: 57%;
+    height: 1500px;
+    
+    background-image: url(Images/Pic12.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.parallax5 {
+    width: 50%;
+    height: 420px;
+    background-image: url(images/Pic12.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin-top: 120px;
+}
+
+.content3 h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    border-bottom: 3px soild black;
+    width: 98%;
+}
+
+.content3 {
+    width: 40%;
+    font-size: 21px;
+    padding: 20px;
+    text-align: justify;
+    margin-top: 100px;   
+}
+
+.content_6 h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    border-bottom: 3px soild black;
+    width: 98%;
+}
+
+.content_6 {
+    width: 40%;
+    font-size: 21px;
+    padding: 20px;
+    text-align: justify;
+    margin-top: 100px;   
+}
+
+.parallax6 {
+    float: right;
+    width: 57%;
+    height: 420px;
+    margin-top: 120px;
+    background-image: url(Images/Pic14.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.parallax7 {
+    width: 50%;
+    height: 420px;
+    background-image: url(images/Pic10.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -102,3 +170,4 @@ nav a:hover {
     color: #130f40;
     
 }
+    

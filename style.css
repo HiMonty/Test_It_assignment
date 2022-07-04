@@ -29,7 +29,7 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 40px;
     border-bottom: 3px soild black;
-    width: 58%;
+    width: 98%;
 }
 
 .content2 {
@@ -79,7 +79,7 @@ header{
 
 .logo a {
     text-decoration: none;
-    font-size: 30px;
+    font-size: 32px;
     font-family: "Pacifico";
     color: #fff;
     letter-spacing: 4px;
