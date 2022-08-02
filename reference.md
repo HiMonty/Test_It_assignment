@@ -1,0 +1,13 @@
+https://www.iotforall.com/8-helpful-everyday-examples-of-artificial-intelligence
+https://beebom.com/examples-of-artificial-intelligence/
+https://www.youtube.com/watch?v=SSE4M0gcmvE
+https://builtin.com/artificial-intelligence
+https://becominghuman.ai/introduction-to-artificial-intelligence-5fba0148ec99#:~:text=Artificial%20Intelligence%20is%20an%20approach,study%20outputs%20intelligent%20software%20systems.
+https://aws.amazon.com/what-is/neural-network/#:~:text=A%20neural%20network%20is%20a,that%20resembles%20the%20human%20brain.
+https://machinelearningmastery.com/what-is-deep-learning/
+https://dltlabs.medium.com/understanding-machine-learning-deep-learning-f5aa95264d61
+https://www.techtarget.com/searchenterpriseai/definition/machine-learning-ML#:~:text=Machine%20learning%20(ML)%20is%20a,to%20predict%20new%20output%20values.
+https://www.google.com/search?q=machine+learning+applications&tbm=isch&ved=2ahUKEwiElqmb9N34AhVfgGMGHXRaBbIQ2-cCegQIABAA&oq=machine+learning+ap&gs_lcp=CgNpbWcQARgBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgYIABAeEAg6BAgAEBhQ4AhYihhguSVoAHAAeACAAdwLiAGwI5IBDTMtMS4zLjEuMS4wLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=6yrCYsT0J9-AjuMP9LSVkAs&bih=552&biw=1280&rlz=1C1CHZN_enNZ978NZ978&safe=active&ssui=on#imgrc=rtwjdR9DjEMfqM
+https://www.javatpoint.com/applications-of-machine-learning
+https://en.wikipedia.org/wiki/Semi-supervised_learning
+https://www.researchgate.net/profile/Fabien-Lotte/publication/277605013/figure/fig4/AS:281234816159750@1444063013959/Principle-of-semi-supervised-learning-1-a-model-eg-CSP-LDA-classifier-is-first.png
